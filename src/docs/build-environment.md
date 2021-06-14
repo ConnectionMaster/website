@@ -87,10 +87,15 @@ IP addresses assigned to build VMs in Google data center (`us-central1` region):
 
 IP addresses assigned to build VMs in LiquidWeb data center (Lansing, MI):
 
+    67.225.164.38
     67.225.164.41
     67.225.164.53
     67.225.164.54
     67.225.164.96
+    67.225.164.101
+    67.225.164.102
+    67.225.164.136
+    67.225.165.19
     67.225.165.66
     67.225.165.168
     67.225.165.171
